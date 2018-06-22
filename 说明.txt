@@ -1,0 +1,16 @@
+OOS像阿里云对象存储上传了一张图片
+实现文件上传
+
+
+
+
+步骤：
+1.创建存储空间tjr(华北2)
+2.找到创建存储空间时的地区获取endpoint = "http://oss-cn-beijing.aliyuncs.com";
+3.点击AccessKeyId创建accessKeyId 
+查看accessKeyId = "XXXXXXXXX" 
+查看accessKeySecret = "XXXXXXXXX";
+点击 对象存储
+点击 存储控件 tjr
+点击 文件管理
+可查看 已上传的文件。
